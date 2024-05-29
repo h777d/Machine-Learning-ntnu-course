@@ -2,7 +2,7 @@
 Computer tasks for Machine Learning course for Signal Processing
 
 **Important**: we do not use `.ipynb` files (jupyter notebooks) in this repository because they contain the results of execution as well as code, and make version control impossible. Instead, we converted the `.ipynb` files into `.py` files using `jupytext`.
-```
+
 These `.py` files can be used directly in Jupyter, but will not save intermediate results, making it possible to track changes in the code.
 
 ## To modify the tasks:
