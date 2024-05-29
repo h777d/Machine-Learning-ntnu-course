@@ -1,4 +1,4 @@
-# TTT4185 Machine Learning
+# Machine Learning Course
 Computer assignments for TTT4185 Machine Learning for Signal Processing
 
 **Important**: we do not use `.ipynb` files (jupyter notebooks) in this repository because they contain the results of execution as well as code, and make version control impossible. Instead, we converted the `.ipynb` files into `.py` files using `jupytext` with the following commands:
