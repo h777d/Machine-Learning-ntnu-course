@@ -1,5 +1,5 @@
 # Machine Learning Course
-Computer tasks for Machine Learning course for Signal Processing
+Computer tasks for Machine Learning course for Signal Processing at NTNU ELSYS department
 
 **Important**: we do not use `.ipynb` files (jupyter notebooks) in this repository because they contain the results of execution as well as code, and make version control impossible. Instead, we converted the `.ipynb` files into `.py` files using `jupytext`.
 
